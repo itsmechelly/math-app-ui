@@ -1,7 +1,7 @@
 ﻿# math-app-ui
 
 This repo contain the ui web page I created for the math-app application, it's only a preview for the 2 projects.<br/>
-To view the preview page [please click here](http://math-app-ui.s3-website-eu-west-1.amazonaws.com/).<br/><br/>
+To view the preview page [please CLICK HERE](http://math-app-ui.s3-website-eu-west-1.amazonaws.com/).<br/><br/>
 The program consists of 2 parts - the server and the client.<br/>
 For the math-app-server source code [please click here](https://github.com/itsmechelly/math-app-server).<br/>
 For the math-app-client source code [please click here](https://github.com/itsmechelly/math-app-client).<br/>
